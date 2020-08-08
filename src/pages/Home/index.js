@@ -13,7 +13,7 @@ function Home() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa!"}
+        videoDescription={"Hello World! Bem-vindo a todos ao meu cantinho. Aqui, vou deixar músicas de alguns artistas e bandas, alguns conhecidos, outros nem tanto, mas todos que eu gosto muito e quero compartilhar com vocês, dentro desses dois genêros que eu mais gosto, rock e rap. Aumenta o som!!"}
       />
 
       <Carousel

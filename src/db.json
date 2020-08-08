@@ -1,0 +1,23 @@
+{
+    "categorias": [
+    {
+        "id": 1,
+        "nome": "Front End",
+        "descricao": "Uma categoria bacanuda",
+        "cor": "#cbd1ff"
+
+    }, 
+ ]
+}
+
+{
+    "categorias": [
+    {
+        "id": 2,
+        "nome": "Back End",
+        "descricao": "Outra categoria bacanuda",
+        "cor": "#cbd1ff"
+
+    }, 
+ ]
+}
